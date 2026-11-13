@@ -137,5 +137,3 @@ Recommended security measures:
 ### 6. HTB Achievement
 
 ![Dancing Achievement](images/06-dancing-achievement.png)
-
-## HTB Achievement
