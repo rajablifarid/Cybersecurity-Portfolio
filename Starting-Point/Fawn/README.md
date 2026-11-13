@@ -98,9 +98,20 @@ Security monitoring should focus on:
 - Restrict FTP access through firewall rules.
 - Monitor authentication events and file transfers.
 
+## Screenshots
+
+### 1. Nmap Enumeration
+![Nmap Scan](./images/01-nmap-scan.png)
+
+### 2. Anonymous FTP Login
+![Anonymous FTP Login](./images/02-anonymous-ftp-login.png)
+
+### 3. FTP File Download
+![FTP File Download](./images/03-ftp-file-download.png)
+
 ## Completion Proof
 
-![Fawn Pwned Screenshot](./images/fawn-pwned.png)
+![Fawn Pwned Screenshot](./images/04-fawn-pwned.png)
 
 ## Lessons Learned
 
