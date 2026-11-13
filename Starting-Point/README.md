@@ -6,7 +6,7 @@ This section contains my practical work from Hack The Box Starting Point labs.
 
 | Lab | Operating System | Main Topic | Status |
 |---|---|---|---|
-| [Meow](./Meow/) | Linux | Telnet, Enumeration, Misconfiguration | Completed |
+| Meow | Linux | Telnet, Enumeration, Misconfiguration | Completed |
 | Fawn | Linux | FTP, Enumeration | Completed |
 | Dancing | Windows | SMB, Enumeration | Completed |
 
