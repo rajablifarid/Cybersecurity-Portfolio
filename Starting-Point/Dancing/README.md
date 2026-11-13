@@ -114,8 +114,28 @@ Recommended security measures:
 
 ## Evidence
 
-Screenshots documenting the enumeration, share access, directory discovery, file retrieval, and HTB achievement are available in the `images/` directory.
+### 1. Nmap Scan
+
+![Nmap Scan](images/01-nmap-scan.png)
+
+### 2. SMB WorkShares Access
+
+![SMB WorkShares Access](images/02-smb-workshares-access.png)
+
+### 3. Discovered Directories
+
+![Discovered Directories](images/03-smb-workshares-directories.png)
+
+### 4. Work Notes
+
+![Work Notes](images/04-worknotes-content.png)
+
+### 5. File Retrieval
+
+![File Retrieval](images/05-flag-file-retrieved.png)
+
+### 6. HTB Achievement
+
+![Dancing Achievement](images/06-dancing-achievement.png)
 
 ## HTB Achievement
-
-[View Dancing Achievement](https://labs.hackthebox.com/achievement/machine/4009530/395)
