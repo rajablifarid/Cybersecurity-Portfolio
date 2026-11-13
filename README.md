@@ -64,8 +64,8 @@ For each lab, I focus on:
 
 - [x] HTB Academy – Foundational modules completed
 - [x] HTB Starting Point – Meow
-- [ ] HTB Starting Point – Fawn
-- [ ] HTB Starting Point – Dancing
+- [x] HTB Starting Point – Fawn
+- [x] HTB Starting Point – Dancing
 
 ## ⚠️ Disclaimer
 
