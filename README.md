@@ -38,6 +38,7 @@ My primary goal is to develop practical skills for a career as a **SOC Analyst /
 - Linux Command Line
 - Windows Command Line
 - Git & GitHub
+
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-2E6E9E?style=for-the-badge)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
