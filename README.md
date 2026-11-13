@@ -1,2 +1,70 @@
-# HTB-Labs
-My hands-on cybersecurity labs, technical notes, and security analysis from Hack The Box.
+# HTB Labs – Cybersecurity Portfolio
+
+Welcome to my cybersecurity portfolio!
+
+This repository documents my hands-on practical learning journey through **Hack The Box (HTB)**, focusing on offensive security fundamentals, system administration, network analysis, and defensive security concepts.
+
+My primary goal is to develop practical skills for a career as a **SOC Analyst / Blue Team Analyst**.
+
+## 🎯 Learning Objectives
+
+- Develop practical network enumeration skills.
+- Understand common network services and protocols.
+- Practice Linux and Windows administration.
+- Explore Active Directory environments.
+- Understand common vulnerabilities and attack techniques.
+- Improve security analysis and troubleshooting skills.
+- Learn how to identify and investigate suspicious activities.
+- Develop practical skills in security monitoring and incident detection.
+
+## 🧪 Lab Categories
+
+| Category | Description |
+|---|---|
+| Starting Point | Beginner-friendly practical labs |
+| Linux | Linux systems and security |
+| Windows | Windows systems and security |
+| Network Analysis | Network protocols and traffic analysis |
+| Active Directory | Active Directory environments |
+| SOC Analysis | Defensive security and threat investigation |
+| Scripts | Personal automation and security scripts |
+
+## 🛠️ Tools & Technologies
+
+- Kali Linux
+- Nmap
+- Netcat
+- Wireshark
+- Linux Command Line
+- Windows Command Line
+- Git & GitHub
+
+*Tools will be added as I gain practical experience.*
+
+## 📚 Learning Approach
+
+For each lab, I focus on:
+
+1. Understanding the objective.
+2. Performing enumeration and information gathering.
+3. Identifying services and potential security weaknesses.
+4. Understanding the underlying techniques.
+5. Documenting technical findings.
+6. Exploring defensive security and SOC perspectives.
+
+## 📈 Progress
+
+- [x] HTB Academy – Foundational modules completed
+- [x] HTB Starting Point – Meow
+- [ ] HTB Starting Point – Fawn
+- [ ] HTB Starting Point – Dancing
+
+## ⚠️ Disclaimer
+
+This repository is intended for educational purposes and documents my personal cybersecurity learning journey.
+
+All activities are conducted in authorized lab environments. I respect Hack The Box's Terms of Service and content-sharing policies. This repository does not publish flags, credentials, or restricted walkthrough content.
+
+---
+
+**Learning by doing. Building practical cybersecurity skills, one lab at a time.**
