@@ -9,6 +9,7 @@ This section contains my practical work from Hack The Box Starting Point labs.
 | Meow | Linux | Telnet, Enumeration, Misconfiguration | Completed |
 | Fawn | Linux | FTP, Enumeration | Completed |
 | Dancing | Windows | SMB, Enumeration | Completed |
+| Redeemer | Linux | Redis, Enumeration | Completed |
 
 ## Learning Objectives
 
