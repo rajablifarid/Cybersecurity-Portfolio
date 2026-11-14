@@ -70,7 +70,7 @@ For each lab, I focus on:
 | Tier | Completed Labs |
 |---|---|
 | Tier 0 | Meow, Fawn, Dancing, Redeemer |
-| Tier 1 | In Progress |
+| Tier 1 | Appointment |
 
 ## ⚠️ Disclaimer
 
