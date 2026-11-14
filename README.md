@@ -66,6 +66,7 @@ For each lab, I focus on:
 - [x] HTB Starting Point – Meow
 - [x] HTB Starting Point – Fawn
 - [x] HTB Starting Point – Dancing
+- [x] HTB Starting Point – Redeemer
 
 ## ⚠️ Disclaimer
 
