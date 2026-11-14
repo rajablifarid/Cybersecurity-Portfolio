@@ -6,7 +6,7 @@ This section contains my practical work from Hack The Box Starting Point labs.
 
 | Tier | Description | Status |
 |---|---|---|
-| [Tier 0](./Tier-0/README.md) | Basic enumeration and common network services | Completed |
+| Tier 0 | Basic enumeration and common network services | Completed |
 | Tier 1 | Intermediate practical challenges | In Progress |
 
 ## Learning Objectives
