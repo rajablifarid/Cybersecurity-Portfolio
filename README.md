@@ -62,11 +62,15 @@ For each lab, I focus on:
 
 ## 📈 Progress
 
-- [x] HTB Academy – Foundational modules completed
-- [x] HTB Starting Point – Meow
-- [x] HTB Starting Point – Fawn
-- [x] HTB Starting Point – Dancing
-- [x] HTB Starting Point – Redeemer
+### HTB Academy
+- Foundational modules completed
+
+### HTB Starting Point
+
+| Tier | Completed Labs |
+|---|---|
+| Tier 0 | Meow, Fawn, Dancing, Redeemer |
+| Tier 1 | In Progress |
 
 ## ⚠️ Disclaimer
 
