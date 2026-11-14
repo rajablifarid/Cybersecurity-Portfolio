@@ -143,4 +143,3 @@ Recommended security measures:
 
 ![Redeemer Badge](images/05-redeemer-badge.png)
 
-## HTB Achievement
