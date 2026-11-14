@@ -8,7 +8,7 @@ The purpose is to improve my practical skills in system enumeration, network ser
 
 | Machine | Operating System | Difficulty | Status |
 |---|---|---|---|
-| [Cap](./Cap/) | Linux | Easy | In Progress |
+| Cap | Linux | Easy | In Progress |
 
 ## Learning Objectives
 
