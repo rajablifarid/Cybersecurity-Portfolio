@@ -4,7 +4,7 @@ This section contains my practical work from Hack The Box Starting Point labs.
 
 ## Tiers
 
-| Tier | Description | Status |
+| Tier | Description | 
 |---|---|---|
 | Tier 0 | Basic enumeration and common network services |
 | Tier 1 | Intermediate practical challenges |
