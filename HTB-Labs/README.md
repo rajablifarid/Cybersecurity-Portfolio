@@ -1,4 +1,4 @@
-# HTB Labs – Cybersecurity Portfolio
+# HTB Labs 
 
 Welcome to my cybersecurity portfolio!
 
