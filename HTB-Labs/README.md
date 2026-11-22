@@ -1,8 +1,8 @@
 # HTB Labs 
 
-Welcome to my cybersecurity portfolio!
+Welcome to my Hack The Box (HTB) lab documentation!
 
-This repository documents my hands-on practical learning journey through **Hack The Box (HTB)**, focusing on offensive security fundamentals, system administration, network analysis, and defensive security concepts.
+This repository documents my hands-on learning journey through Hack The Box Academy and HTB Starting Point, focusing on practical cybersecurity skills, network enumeration, Linux and Windows fundamentals, and common security vulnerabilities.
 
 My primary goal is to develop practical skills for a career as a **SOC Analyst / Blue Team Analyst**.
 
@@ -22,12 +22,6 @@ My primary goal is to develop practical skills for a career as a **SOC Analyst /
 | Category | Description |
 |---|---|
 | Starting Point | Beginner-friendly practical labs |
-| Linux | Linux systems and security |
-| Windows | Windows systems and security |
-| Network Analysis | Network protocols and traffic analysis |
-| Active Directory | Active Directory environments |
-| SOC Analysis | Defensive security and threat investigation |
-| Scripts | Personal automation and security scripts |
 
 ## 🛠️ Tools & Technologies
 
